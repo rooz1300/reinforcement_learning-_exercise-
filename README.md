@@ -19,11 +19,17 @@ Each script or notebook in this repository corresponds to a concept or algorithm
   - Markov Decision Processes (MDPs)
   - Value Iteration & Policy Iteration
   - Q-Learning, SARSA
+    
 - Deep Q-Learning (DQN)
   - Experience Replay
   - Target Networks
   - Double DQN & Dueling DQN
+- Policy Gradient Methods
+  - REINFORCE Algorithm (Implemented)
 
+Learns policy directly by optimizing expected return
+
+Includes entropy regularization for exploration
 - OpenAI Gym Environments
 - Custom reward shaping and tuning
 - TensorFlow-based implementations
